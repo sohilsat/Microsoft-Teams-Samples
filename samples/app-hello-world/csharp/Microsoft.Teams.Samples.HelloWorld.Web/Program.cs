@@ -1,6 +1,6 @@
 ﻿// Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
-//
+//LIcensed by microsoft
 // Generated with Bot Builder V4 SDK Template for Visual Studio EchoBot v4.6.2
 
 using Microsoft.AspNetCore;
